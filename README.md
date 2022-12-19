@@ -3,7 +3,7 @@ My name is Mackenzie McClellan. Welcome!
 ---
 I am a senior studying Computer Science at the University of St. Thomas. I will graduate this semester, December 2022. In February 2023, I will be pursuing a career in software engineering at Best Buy. I am originally from Brooklyn Park, MN, and graduated from Maple Grove Senior High in 2019. 
 
-Throughout my time at St. Thomas, I've been given the opportunity to work on a multitude of projects. During this time, and in these three projects in particular, I have harnessed skills in Java, JavaScript, HTML/CSS, and jQuery. The first project, the St. Paul Crime Incidents Web App, is a single page application class project I contributed to. The second, the Security Venture Project, is a solo project of powerpoints and videos about Cyber Security. The third, OneU, is a start-up company's website I contributed to throughout the gALPHA program at St. Thomas. 
+Throughout my time at St. Thomas, I've had the opportunity to work on a multitude of projects. During this time, and in these three projects in particular, I have harnessed skills in Java, JavaScript, HTML/CSS, and jQuery. The first project, the St. Paul Crime Incidents Web App, is a single page application class project I contributed to. The second, the Security Venture Project, is a solo project of powerpoints and videos about Cyber Security. The third, OneU, is a start-up company's website I contributed to throughout the gALPHA program at St. Thomas. 
   
 Coding Projects
 ---
