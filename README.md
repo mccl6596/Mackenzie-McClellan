@@ -3,7 +3,7 @@ My name is Mackenzie McClellan. Welcome!
 ---
 I am a senior studying Computer Science at the University of St. Thomas. I will graduate this semester, December 2022. In February 2023, I will be pursuing a career in software engineering at Best Buy. I am originally from Brooklyn Park, MN, and graduated from Maple Grove Senior High in 2019. 
 
-Throughout my time at St. Thomas, I've had the opportunity to work on a multitude of projects. During this time, and in these three projects in particular, I have harnessed skills in Java, JavaScript, HTML/CSS, and jQuery. The first project, the St. Paul Crime Incidents Web App, is a single page application class project I contributed to. The second, the Security Venture Project, is a solo project of powerpoints and videos about Cyber Security. The third, OneU, is a start-up company's website I contributed to throughout the gALPHA program at St. Thomas. 
+Throughout my time at St. Thomas, I've had the opportunity to work on a multitude of projects. During this time, and in these three projects in particular, I have harnessed skills in Java, JavaScript, HTML/CSS, and jQuery. The first project, the St. Paul Crime Incidents Web App, is a single page application project I contributed to. The second, the Security Venture Project, is a solo project of powerpoints and videos about Cyber Security. The third, OneU, is a start-up company's website I helped contribute to throughout the gALPHA program at St. Thomas. 
   
 Coding Projects
 ---
@@ -20,7 +20,7 @@ The presentations were created using Microsoft PowerPoint and covered topics suc
 Through this project, I was able to learn about the unique challenges and risks that start-up companies face in terms of cyber security and how to address them. I also gained experience in creating visually appealing and informative presentations and videos, using a range of multimedia tools and techniques.
 
 ### [OneU](https://github.com/tinatrinh1012/OneU) - January 2021
-OneU is a degree planning web app service for college students. OneU allows students to have an interactive and easy-to-use degree planning platform with supporting features such as color code and degree validation to make sure the student is on track for graduation. OneU is compatiable for all user types, aimed to making degree planning easier. 
+OneU is a degree planning web app service for college students. OneU allows students to have an interactive and easy-to-use degree planning platform with supporting features such as a degree validation to make sure the student is on track for graduation. OneU is compatiable for all user types, aimed to making degree planning easier. 
 
 OneU is developed as a prototype product for our team in gALPHA program at St. Thomas, organized by Gener8tor company. gALPHA is a 4-week venture creation program happens over J-term, in which participants team up as a company and work on building a business plan to gain experience in the startup process.
 
